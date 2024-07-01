@@ -1,2 +1,2 @@
 # git215_setup
-## Rachel Corona
+## Author: Rachel Corona
